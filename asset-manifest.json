@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Introduccion_a_Reactjs_Platzi/static/css/main.226842a2.chunk.css",
+    "main.js": "/Introduccion_a_Reactjs_Platzi/static/js/main.0b52cfba.chunk.js",
+    "main.js.map": "/Introduccion_a_Reactjs_Platzi/static/js/main.0b52cfba.chunk.js.map",
+    "runtime-main.js": "/Introduccion_a_Reactjs_Platzi/static/js/runtime-main.f85ff3cc.js",
+    "runtime-main.js.map": "/Introduccion_a_Reactjs_Platzi/static/js/runtime-main.f85ff3cc.js.map",
+    "static/js/2.6b935e52.chunk.js": "/Introduccion_a_Reactjs_Platzi/static/js/2.6b935e52.chunk.js",
+    "static/js/2.6b935e52.chunk.js.map": "/Introduccion_a_Reactjs_Platzi/static/js/2.6b935e52.chunk.js.map",
+    "index.html": "/Introduccion_a_Reactjs_Platzi/index.html",
+    "static/css/main.226842a2.chunk.css.map": "/Introduccion_a_Reactjs_Platzi/static/css/main.226842a2.chunk.css.map",
+    "static/js/2.6b935e52.chunk.js.LICENSE.txt": "/Introduccion_a_Reactjs_Platzi/static/js/2.6b935e52.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f85ff3cc.js",
+    "static/js/2.6b935e52.chunk.js",
+    "static/css/main.226842a2.chunk.css",
+    "static/js/main.0b52cfba.chunk.js"
+  ]
+}
