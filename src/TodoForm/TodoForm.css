@@ -1,0 +1,43 @@
+.form {
+  width: 400px;
+  padding: 20px;
+  background: white;
+  color: black;
+  display: flex;
+  flex-direction: column;
+  text-align: center;
+  font-family: "Montserrat";
+}
+.form label {
+  margin: 0 0 20px 0;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+.form textarea {
+  margin: 0 0 20px 0;
+  font-family: "Montserrat";
+  font-size: 1.4rem;
+  height: 150px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+.form div {
+  width: 90%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+}
+.form div button {
+  width: 160px;
+  padding: 10px;
+  font-size: 1.2rem;
+  font-family: "Montserrat";
+  border: none;
+  cursor: pointer;
+}
+.form div button:nth-child(1) {
+  background: rgba(72, 206, 243, 0.5);
+}
+.form div button:nth-child(2) {
+  background: rgb(236, 111, 111);
+}
